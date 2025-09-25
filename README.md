@@ -13,7 +13,7 @@
 - Chat between user and driver
 
 ## Live Demo
-- Frontend: [https://uber-frontend.vercel.app](https://uber-frontend.vercel.app)
+- Frontend: [https://uber-frontend.vercel.app](https://uber-bxmn-git-main-subrats-projects-f0291c6a.vercel.app)
 - Backend API: [https://uber-backend.onrender.com](https://uber-backend.onrender.com)
 
 ## How to Run Locally
